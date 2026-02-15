@@ -1,118 +1,134 @@
 <h1 align="center">Naga Satya Sai Vamsi Kiran Ande</h1>
-<h3 align="center">AI-Integrated Full Stack Developer | Backend-Focused Engineer | Andriod Developer</h3>
+<h3 align="center">AI-Integrated Backend Engineer | Full Stack Product Developer | Android Developer</h3>
 
 <p align="center">
-Final Year B.Tech (CSE) – SRKR Engineering College (2026)
+🎓 Final Year B.Tech (CSE) – SRKR Engineering College (2026)  
+🚀 Building Scalable Systems | GenAI-Driven Platforms | Performance-Focused Architecture
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Professional Summary
 
-- 🎓 Final Year Computer Science Student (2026 Graduate)
-- 💡 Strong in building scalable full-stack systems with AI integration
-- ⚡ Focused on performance optimization, backend architecture & reliability engineering
-- 🔐 Security-first mindset (JWT, AES-256, RBAC, encryption workflows)
-- 🧠 Experienced in GenAI systems with fallback strategies & failure handling
-- 🌍 Open to Developer Roles (Backend / Full Stack / Mobile)
+Engineering student focused on building **production-grade full stack systems** with AI integration, strong backend architecture, and measurable performance optimization.
 
----
+Experienced in:
+- Designing scalable REST APIs (<300ms response time)
+- Implementing GenAI systems with fallback reliability
+- Developing real-time architectures (WebSockets, live tracking)
+- Building secure systems with encryption & RBAC
 
-# 🏆 Featured Projects
-
----
-
-## 🔹 CareerForge AI – AI-Powered Career Guidance Platform
-**Tech:** React 19, TypeScript, Node.js, Express, PostgreSQL, Prisma, Groq LLaMA 3.1 70B, Gemini, Docker  
-
-🔗 Repo: https://github.com/vamsikiran1234/careerforge-ai  
-🌐 Live: https://careerforge-ai-lyart.vercel.app  
-
-**Impact:**
-- 🚀 Architected backend achieving <300ms API response across 50+ REST endpoints
-- 🤖 Integrated Groq LLaMA 3.1 70B + Gemini fallback ensuring reliability & AI accuracy
-- 💬 Built real-time WebSocket mentorship chat system
-- 📊 Developed structured analytics dashboard for skill tracking
-- 🔐 Implemented JWT auth + RBAC with secure session handling
-- 🧪 Achieved 95%+ test coverage with CI/CD automation
+Actively seeking **Developer Roles (Backend / Full Stack / Mobile)**.
 
 ---
 
-## 🔹 Maps Location Tracker – Enterprise-Grade GPS Monitoring
-**Tech:** Flutter, Firebase, Google Maps API, SQLite, AES-256  
+# 🚀 Flagship Projects
 
-🔗 Repo: https://github.com/vamsikiran1234/maps_location_tracker  
+---
 
-**Impact:**
-- 📡 Reduced battery usage by 40% using adaptive background tracking
-- 🔄 Built offline-first sync architecture with 99.9% data consistency
-- 👥 Enabled real-time multi-user tracking with sub-second latency
+## 🧠 CareerForge AI – AI Career Guidance & Mentorship Platform
+
+**Stack:** React 19 • TypeScript • Node.js • Express • PostgreSQL • Prisma • Groq LLaMA 3.1 70B • Gemini • Docker  
+
+🔗 Repo:  
+https://github.com/vamsikiran1234/careerforge-ai  
+
+🌐 Live:  
+https://careerforge-ai-lyart.vercel.app  
+
+**Engineering Highlights**
+
+- 🚀 Designed backend with 50+ REST APIs averaging <300ms latency
+- 🤖 Implemented LLaMA 3.1 (70B) + Gemini fallback for AI reliability
+- 💬 Built real-time mentor-student system using WebSockets
+- 📊 Developed structured skill analytics & dashboard insights
+- 🔐 Secured system using JWT + RBAC + email verification
+- 🧪 95%+ test coverage with CI/CD automation
+
+---
+
+## 📍 Maps Location Tracker – Enterprise-Grade GPS Monitoring
+
+**Stack:** Flutter • Firebase • Google Maps API • SQLite • AES-256 Encryption  
+
+🔗 Repo:  
+https://github.com/vamsikiran1234/maps_location_tracker  
+
+**Engineering Highlights**
+
+- 📡 Reduced battery usage by 40% via adaptive tracking algorithms
+- 🔄 Built offline-first architecture with 99.9% data consistency
+- 👥 Implemented sub-second real-time multi-user tracking
 - 🔐 Integrated AES-256 encryption + biometric authentication
-- 📊 Designed analytics dashboard for geofencing & travel metrics
+- 📊 Designed geofencing alerts & performance analytics dashboard
 
 ---
 
-## 🔹 Interview Smart Coach – AI Resume & Interview Platform
-**Tech:** React, Supabase, PostgreSQL, GPT-4, Tailwind  
+## 🎯 Interview Smart Coach – AI Resume & Interview System
 
-🔗 Repo: https://github.com/vamsikiran1234/interview-smart-coach  
+**Stack:** React • Supabase • PostgreSQL • GPT-4 • Tailwind  
 
-**Impact:**
-- 📝 Built AI-powered ATS resume optimizer
-- 🎯 Implemented JD analyzer using GPT-4
-- 🧪 Created AI-evaluated mock interviews with scoring engine
-- 📊 Developed analytics dashboard with performance tracking
+🔗 Repo:  
+https://github.com/vamsikiran1234/interview-smart-coach  
+
+**Engineering Highlights**
+
+- 📝 Developed AI-powered ATS resume optimizer
+- 🎯 Built JD analyzer using GPT-4 for gap analysis
+- 🧪 Designed AI-evaluated mock interviews with scoring engine
+- 📊 Created analytics dashboard with performance trend tracking
 
 ---
 
-# 🧠 Technical Skills
+# 🛠 Technical Expertise
 
-### 💻 Languages
+### Languages
 Java • Python • JavaScript • TypeScript
 
-### 🌐 Frontend
-React • Next.js • Flutter • Tailwind CSS • TypeScript
+### Frontend
+React • Next.js • Flutter • Tailwind CSS
 
-### 🛠 Backend
-Node.js • Express.js • FastAPI • Django
+### Backend
+Node.js • Express • FastAPI • Django
 
-### 🗄 Databases
+### Databases
 PostgreSQL • MongoDB • Firestore • Supabase • SQLite
 
-### ⚙ DevOps & Tools
-Docker • GitHub Actions • CI/CD • AWS (Basics) • Linux (Basics) • Git
+### DevOps & Tools
+Docker • GitHub Actions • CI/CD • AWS (Basic) • Linux (Basic)
 
-### 🤖 AI Systems
-Groq LLaMA3 • GPT-4 • Gemini • Prompt Engineering • Fallback Architecture
+### AI Systems Engineering
+Groq LLaMA3 • GPT-4 • Gemini  
+Prompt Engineering • Fallback Strategies • Failure Handling • Reliability Engineering
 
 ---
 
 # 🏅 Achievements
 
-- 🏆 Oracle Cloud Infrastructure 2025 Certified – Generative AI Professional
+- 🏆 Oracle Cloud Infrastructure 2025 – Generative AI Certified
 - 🥈 Finalist – Dev Challenge’25 Hackathon (GDG SRKR)
-- 🏅 SEF Internship League Hackathon Certified Participant
-- 👨‍💻 Maintains 10+ GitHub repositories with structured documentation
+- 🏅 SEF Internship League Hackathon Certified
+- 👨‍💻 Maintains 10+ structured GitHub repositories
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vamsikiran1234&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vamsikiran1234&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vamsikiran1234" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vamsikiran1234&hide_border=true" />
 </p>
 
 ---
 
-# 📫 Contact
+# 📬 Contact
 
-📧 Email: vamsikiran198@gmail.com  
-📱 Phone: +91-9704103471  
+📧 vamsikiran198@gmail.com  
+📱 +91-9704103471  
 
 ---
 
-### ⭐ Open to Developer Roles – Backend / Full Stack / AI-Integrated Systems
+⭐ Open to Backend / Full Stack / AI-Integrated System Development Roles
