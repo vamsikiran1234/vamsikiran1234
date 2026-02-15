@@ -115,11 +115,11 @@ Prompt Engineering • Fallback Strategies • Failure Handling • Reliability 
 # 📊 Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vamsikiran1234&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vamsikiran1234&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vamsikiran1234&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=vamsikiran1234&theme=github-dark&hide_border=true" />
 </p>
 
 ---
