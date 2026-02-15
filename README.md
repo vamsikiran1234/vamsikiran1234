@@ -1,5 +1,5 @@
 <h1 align="center">Naga Satya Sai Vamsi Kiran Ande</h1>
-<h3 align="center">AI-Integrated Full Stack Developer | Backend-Focused Engineer | Flutter Developer</h3>
+<h3 align="center">AI-Integrated Full Stack Developer | Backend-Focused Engineer | Andriod Developer</h3>
 
 <p align="center">
 Final Year B.Tech (CSE) – SRKR Engineering College (2026)
